@@ -8,5 +8,6 @@ Stress Test QA Security Engineer
   - export
   - screenshot
   - forward GUI local install an predator nya
+  - buat repository public sendiri yang sudah build in beserta result nya
 
 Selamat mencoba
